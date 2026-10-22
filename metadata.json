@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceIt",
+  "description": "Professional invoice generator and client management app for freelancers and small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
